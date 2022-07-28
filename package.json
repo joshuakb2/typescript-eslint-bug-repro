@@ -1,0 +1,13 @@
+{
+  "name": "typescript-eslint-bug-repro",
+  "version": "1.0.0",
+  "description": "Reproduction of a bug in typescript-eslint",
+  "author": "Joshua Baker",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.45",
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0",
+    "eslint": "^8.18.0"
+  }
+}
